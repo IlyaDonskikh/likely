@@ -14,7 +14,7 @@ Gem::Specification.new do |s|
   s.description = "Helper for add social share feature in your Rails: Facebook, Twitter, Vk"
   s.license     = "MIT"
 
-  s.files = Dir["{app,config,db,lib}/**/*", "MIT-LICENSE", "Rakefile", "README.rdoc"]
+  s.files = Dir["{app,config,vendor,db,lib}/**/*", "MIT-LICENSE", "Rakefile", "README.rdoc"]
   s.test_files = Dir["test/**/*"]
 
   s.add_dependency 'rails', '~> 4'
