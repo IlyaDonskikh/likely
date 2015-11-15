@@ -1,4 +1,5 @@
 = Likely
+{<img src="https://codeclimate.com/github/IlyaDonskikh/likely/badges/gpa.svg" />}[hhttps://codeclimate.com/github/IlyaDonskikh/likely]
 
 Likely is the social sharing buttons that aren’t shabby.
 
