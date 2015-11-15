@@ -1,3 +1,18 @@
 = Likely
 
-This project rocks and uses MIT-LICENSE.
+Likely is the social sharing buttons that aren’t shabby.
+
+== Setup
+Gemfile:
+  gem 'likely'
+
+application.js:
+  //= require likely
+
+application.css:
+  *= require likely
+
+Follow the instructions: http://ilyabirman.net/projects/likely/
+
+== Thanks
+Thanks to Ilya Birman for creating the main {plugin}[https://github.com/ilyabirman/Likely].
